@@ -4,6 +4,8 @@ tag: browser
 go home: browser.go_home()
 forward: browser.go_forward()
 go back[ward]: browser.go_back()
+close it: key(ctrl-w)
+open new: key(ctrl-t)
 
 go private: browser.open_private_window()
 
